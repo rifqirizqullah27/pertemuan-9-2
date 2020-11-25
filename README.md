@@ -18,7 +18,6 @@
 ```python
 
 #Dictionary
-#rizkyyCoder
 daftarKontak = {"Nama":"Nomer Telpon"}
 kontak       = {'Ari':'081267888', 'Dina' : '087677776'}
 
